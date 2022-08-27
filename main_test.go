@@ -32,7 +32,7 @@ func Test_function_which_return_1(t *testing.T) {
 		},
 		{
 			name: "test3",
-			want: 1,
+			want: 2,
 		},
 	}
 	for _, tt := range tests {
