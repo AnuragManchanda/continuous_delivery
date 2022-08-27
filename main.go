@@ -7,5 +7,6 @@ func main() {
 }
 
 func function_which_return_1() int {
+
 	return 1
 }
